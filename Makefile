@@ -5,7 +5,7 @@
 #Homework #5
 #2/25/20
 #
-#Makefile for hw4
+#Makefile for hw5
 #########################
 
 CC=gcc
